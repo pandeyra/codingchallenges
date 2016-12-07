@@ -2,6 +2,8 @@ package com.programs.geeksforgeeks;
 
 import java.util.Scanner;
 //This program is solution to http://www.practice.geeksforgeeks.org/problem-page.php?pid=474
+//Summary - Given an MxN matrix, write a program to find out total paths possible from (0,0) to (M-1, N-1). 
+//You can move either in right or down.
 class MatrixPath {
 	public static void main (String[] args) {
 		Scanner s = new Scanner(System.in);
