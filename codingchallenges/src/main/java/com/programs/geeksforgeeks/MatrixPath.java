@@ -1,7 +1,7 @@
 package com.programs.geeksforgeeks;
 
 import java.util.Scanner;
-
+//This program is solution to http://www.practice.geeksforgeeks.org/problem-page.php?pid=474
 class MatrixPath {
 	public static void main (String[] args) {
 		Scanner s = new Scanner(System.in);
